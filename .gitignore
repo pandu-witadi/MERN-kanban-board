@@ -1,0 +1,4 @@
+node_modules
+client_react/.vscode
+client_react/node_modules
+client_react/build
